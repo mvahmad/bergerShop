@@ -1,6 +1,6 @@
 const Order = () => {
   return (
-    <div className="bg-alice-blue-50 w-96  rounded-xl flex flex-col gap-1">
+    <div className="bg-alice-blue-50 w-96 h-80 rounded-xl flex flex-col gap-1">
       <div className="flex justify-between p-2">
         <span>تومان</span>
         <label>:جمع کل سفارشات</label>
